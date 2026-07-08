@@ -1,0 +1,240 @@
+newmtl skin
+Kd 0.940 0.780 0.630
+Ka 0.282 0.234 0.189
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl hair
+Kd 0.200 0.140 0.100
+Ka 0.060 0.042 0.030
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl shirt
+Kd 0.250 0.450 0.900
+Ka 0.075 0.135 0.270
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl pants
+Kd 0.280 0.300 0.420
+Ka 0.084 0.090 0.126
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl sock
+Kd 0.900 0.900 0.920
+Ka 0.270 0.270 0.276
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl babyskin
+Kd 1.000 0.860 0.740
+Ka 0.300 0.258 0.222
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl onesie
+Kd 0.980 0.800 0.880
+Ka 0.294 0.240 0.264
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl wood
+Kd 0.550 0.350 0.180
+Ka 0.165 0.105 0.054
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl woodDark
+Kd 0.400 0.250 0.120
+Ka 0.120 0.075 0.036
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl fabric
+Kd 0.820 0.760 0.700
+Ka 0.246 0.228 0.210
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl fabricBlue
+Kd 0.500 0.650 0.850
+Ka 0.150 0.195 0.255
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl white
+Kd 0.960 0.960 0.960
+Ka 0.288 0.288 0.288
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl black
+Kd 0.080 0.080 0.090
+Ka 0.024 0.024 0.027
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl red
+Kd 0.850 0.200 0.200
+Ka 0.255 0.060 0.060
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl green
+Kd 0.300 0.750 0.350
+Ka 0.090 0.225 0.105
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl orange
+Kd 0.950 0.550 0.150
+Ka 0.285 0.165 0.045
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl yellow
+Kd 0.980 0.850 0.200
+Ka 0.294 0.255 0.060
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl brown
+Kd 0.450 0.280 0.150
+Ka 0.135 0.084 0.045
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl gray
+Kd 0.550 0.550 0.580
+Ka 0.165 0.165 0.174
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl metal
+Kd 0.720 0.740 0.780
+Ka 0.216 0.222 0.234
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl coffee
+Kd 0.320 0.180 0.090
+Ka 0.096 0.054 0.027
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl sky
+Kd 0.450 0.750 0.920
+Ka 0.135 0.225 0.276
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl pink
+Kd 0.980 0.650 0.720
+Ka 0.294 0.195 0.216
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl purple
+Kd 0.550 0.350 0.750
+Ka 0.165 0.105 0.225
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl cream
+Kd 0.960 0.920 0.800
+Ka 0.288 0.276 0.240
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl glass
+Kd 0.800 0.920 0.950
+Ka 0.240 0.276 0.285
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl poop
+Kd 0.420 0.260 0.120
+Ka 0.126 0.078 0.036
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl tiger
+Kd 0.950 0.600 0.200
+Ka 0.285 0.180 0.060
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl leaf
+Kd 0.350 0.650 0.300
+Ka 0.105 0.195 0.090
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
+newmtl glow
+Kd 1.000 0.950 0.650
+Ka 0.300 0.285 0.195
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+d 1.0
+
